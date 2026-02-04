@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sebaswvv/lan-share/releases/download/v1.0.0/lan-share_1.0.0_windows_amd64.tar.gz",
+            "url": "https://github.com/sebaswvv/lan-share/releases/download/v1.0.1/lan-share_1.0.1_windows_amd64.tar.gz",
             "bin": [
                 "lanshare.exe"
             ],
-            "hash": "9a9a88136504cad4389bceb97b7129a61d35a4d90475f6e93bb3cc33b8bce426"
+            "hash": "eaf2a0ae4e64a8527a9a188c325d205ee97a79e4bb08ad3dd621b43053cb3a50"
         },
         "arm64": {
-            "url": "https://github.com/sebaswvv/lan-share/releases/download/v1.0.0/lan-share_1.0.0_windows_arm64.tar.gz",
+            "url": "https://github.com/sebaswvv/lan-share/releases/download/v1.0.1/lan-share_1.0.1_windows_arm64.tar.gz",
             "bin": [
                 "lanshare.exe"
             ],
-            "hash": "203d790e0b7e107bce1c3b1af740e557daaa3bbb1b8bca6d5d0467776b25d32a"
+            "hash": "0900853fc9358fbac239ed8a49cdd09d9075880a6ba89451afa0cd15c3305bd0"
         }
     },
     "homepage": "https://github.com/sebaswvv/lan-share",
