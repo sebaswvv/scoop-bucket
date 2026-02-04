@@ -1,0 +1,22 @@
+{
+    "version": "0.0.6-beta",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sebaswvv/lan-share/releases/download/v0.0.6-beta/lan-share_0.0.6-beta_windows_amd64.tar.gz",
+            "bin": [
+                "lanshare.exe"
+            ],
+            "hash": "1f9624fb72d6c4d645cd0ac7529b5987679ddefe1000cf5fa6df186dc4ebd7ff"
+        },
+        "arm64": {
+            "url": "https://github.com/sebaswvv/lan-share/releases/download/v0.0.6-beta/lan-share_0.0.6-beta_windows_arm64.tar.gz",
+            "bin": [
+                "lanshare.exe"
+            ],
+            "hash": "3f6ef38f99c7b9a9d1f8cbe9c0ebb6c9b080406034ebb8d37b50c185610a14f5"
+        }
+    },
+    "homepage": "https://github.com/sebaswvv/lan-share",
+    "license": "MIT",
+    "description": "Share files instantly over your local network with QR codes"
+}
